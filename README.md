@@ -1,4 +1,5 @@
-Added example obd_tachometer
+Added example 
+obd_tachometer. Suitable for cars with obd protocol ISO 15765-4 11 bits 500Kb/s. Circuit diagram included.
 
 MCP_CAN Library for Arduino
 ==============

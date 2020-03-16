@@ -1,3 +1,5 @@
+Added example obd_tachometer
+
 MCP_CAN Library for Arduino
 ==============
 MCP_CAN library v1.5
